@@ -1,0 +1,45 @@
+body{
+  background-color: #1b262c;
+}
+
+h1{
+
+  font-family: 'Berkshire Swash', cursive;
+  padding: 2% 5%;
+  font-size: 8rem;
+  color: #70adb5;
+  text-shadow: 5px 0px #050505;
+}
+
+p{
+  text-align: center;
+  font-family: 'Leckerli One', cursive;
+  color: #70adb5;
+}
+
+footer{
+  text-align: center;
+  padding: 5% 7%;
+  color:  #EEEE;
+}
+
+img{
+  width: 80%;
+}
+
+.G{
+  color: #edcfa9;
+  font-family: 'Aladin', cursive;
+  display: inline;
+}
+
+.container{
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice{
+  font-size: 2rem;
+  display: inline-block;
+}
